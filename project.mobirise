@@ -30,7 +30,7 @@
     "favicon": "",
     "noImageResize": "",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 8,
+    "uniqCompNum": 9,
     "versionPublish": "4.6.5"
   },
   "pages": {
@@ -237,9 +237,26 @@
               "color": "#194963"
             },
             ".mbr-section-title": {
-              "color": "#194963"
+              "color": "#194963",
+              "text-align": "center",
+              "font-size": "36px"
             }
           }
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "Tour et Taxis",
+              "placeId": "ChIJM1gGPJfDw0cRTCTBXfU4Bbs",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-8"
         },
         {
           "_params": {
