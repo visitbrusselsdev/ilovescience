@@ -78,7 +78,7 @@ h6,
   font-family: 'Lora', serif;
 }
 .bg-primary {
-  background-color: #194963 !important;
+  background-color: #f7e921 !important;
 }
 .bg-success {
   background-color: #90a878 !important;
@@ -93,8 +93,8 @@ h6,
   background-color: #f28281 !important;
 }
 .btn-primary {
-  background-color: #194963;
-  border-color: #194963;
+  background-color: #f7e921;
+  border-color: #f7e921;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -103,14 +103,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #0a1c26;
-  border-color: #0a1c26;
+  background-color: #c4b807;
+  border-color: #c4b807;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #0a1c26 !important;
-  border-color: #0a1c26 !important;
+  background-color: #c4b807 !important;
+  border-color: #c4b807 !important;
 }
 .btn-secondary {
   background-color: #194963;
@@ -214,8 +214,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #040d12;
-  color: #040d12;
+  border-color: #aca106;
+  color: #aca106;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -223,14 +223,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #194963;
-  border-color: #194963;
+  background-color: #f7e921;
+  border-color: #f7e921;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #194963 !important;
-  border-color: #194963 !important;
+  background-color: #f7e921 !important;
+  border-color: #f7e921 !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -333,7 +333,7 @@ h6,
   border-color: #f28281 !important;
 }
 .text-primary {
-  color: #194963 !important;
+  color: #f7e921 !important;
 }
 .text-success {
   color: #90a878 !important;
@@ -360,36 +360,36 @@ h6,
   background-color: #f28281;
 }
 .btn-social {
-  border-color: #194963;
+  border-color: #f7e921;
 }
 .btn-social:hover {
-  background: #194963;
+  background: #f7e921;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #194963;
+  color: #f7e921;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #194963;
+  color: #f7e921;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #194963;
+  background: #f7e921;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #194963;
+  color: #f7e921;
 }
 .lead a,
 .lead a:hover {
-  color: #194963;
+  color: #f7e921;
 }
 .lead blockquote {
-  border-color: #194963;
+  border-color: #f7e921;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #3394c9;
+  color: #fefde6;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -409,7 +409,7 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #194963;
+  color: #f7e921;
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
@@ -444,7 +444,7 @@ h6,
 #ext_menu-1 .dropdown-item:hover,
 #ext_menu-1 .link:focus,
 #ext_menu-1 .dropdown-item:focus {
-  color: #194963;
+  color: #f7e921;
 }
 #ext_menu-1 .link[aria-expanded="true"],
 #ext_menu-1 .dropdown-menu {
@@ -471,7 +471,7 @@ h6,
 }
 #ext_menu-1 .bg-color.transparent.opened .link:hover,
 #ext_menu-1 .bg-color.transparent.opened .link:focus {
-  color: #194963;
+  color: #f7e921;
 }
 #ext_menu-1 .link[aria-expanded="true"],
 #ext_menu-1 .dropdown-item[aria-expanded="true"] {
@@ -514,17 +514,17 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #ext_menu-9 .link {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
 }
 #ext_menu-9 .dropdown-item,
 #ext_menu-9 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.137rem;
 }
 #ext_menu-9 .link:hover,
 #ext_menu-9 .dropdown-item:hover,
 #ext_menu-9 .link:focus,
 #ext_menu-9 .dropdown-item:focus {
-  color: #194963;
+  color: #f7e921;
 }
 #ext_menu-9 .link[aria-expanded="true"],
 #ext_menu-9 .dropdown-menu {
@@ -551,9 +551,18 @@ h6,
 }
 #ext_menu-9 .bg-color.transparent.opened .link:hover,
 #ext_menu-9 .bg-color.transparent.opened .link:focus {
-  color: #194963;
+  color: #f7e921;
 }
 #ext_menu-9 .link[aria-expanded="true"],
 #ext_menu-9 .dropdown-item[aria-expanded="true"] {
   color: #194963!important;
+}
+#features3-b H4 {
+  color: #ffffff;
+}
+#features3-c H4 {
+  color: #ffffff;
+}
+#features3-d H4 {
+  color: #ffffff;
 }
