@@ -434,11 +434,11 @@ h6,
   font-family: 'Roboto', sans-serif;
 }
 #ext_menu-1 .link {
-  font-size: 0.95rem;
+  font-size: 1.05rem;
 }
 #ext_menu-1 .dropdown-item,
 #ext_menu-1 .nav-dropdown-sm .link {
-  font-size: 1.029rem;
+  font-size: 1.137rem;
 }
 #ext_menu-1 .link:hover,
 #ext_menu-1 .dropdown-item:hover,
