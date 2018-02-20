@@ -75,7 +75,7 @@
             "paddingBottom": 1,
             "bgColor": "#75c4c9"
           },
-          "text": "<p>Le site est en cours de construction. Plus d’informations suivront rapidement.\r</p><p>Merci de votre compréhension, à très bientôt !\r</p><p>\r</p><p>Aan deze website wordt nog volop gewerkt. Binnenkort is hier meer info te vinden.\r</p><p>Bedankt voor jullie belangstelling en tot heel gauw!\r</p><p>\r</p><p>This website is under construction. More information will follow shortly.\r</p><p>Thank you for your comprehension, we hope to welcome you back soon!\r</p><p><br></p>",
+          "text": "<p>Le site est en cours de construction. Plus d’informations suivront rapidement.\n</p><p>Merci de votre compréhension, à très bientôt !\n<br><br></p><p>\n</p><p>Aan deze website wordt nog volop gewerkt. Binnenkort is hier meer info te vinden.\n</p><p>Bedankt voor jullie belangstelling en tot heel gauw!\n<br><br></p><p>\n</p><p>This website is under construction. More information will follow shortly.\n</p><p>Thank you for your comprehension, we hope to welcome you back soon!\n</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
