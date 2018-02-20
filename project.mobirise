@@ -27,7 +27,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/fusee-128x239.png",
     "noImageResize": "",
     "versionFirst": "4.6.5",
     "uniqCompNum": 15,
@@ -75,7 +75,7 @@
             "paddingBottom": 1,
             "bgColor": "#75c4c9"
           },
-          "text": "<p><b>Site en construction - &nbsp;Disponible àpd 14/03</b><br>La première édition du I Love Science Festival se déroulera du vendredi 27 au dimanche 29 avril 2018 à Tour et Taxis à Bruxelles. De nombreux acteurs de la sensibilisation aux sciences seront présents pour offrir aux familles et aux écoles des activités ludiques et interactives. Ce festival ravira petits et grands qui auront l’occasion de découvrir comment les sciences impactent leur vie de tous les jours.&nbsp;</p>",
+          "text": "<p>Le site est en cours de construction. Plus d’informations suivront rapidement.\r</p><p>Merci de votre compréhension, à très bientôt !\r</p><p>\r</p><p>Aan deze website wordt nog volop gewerkt. Binnenkort is hier meer info te vinden.\r</p><p>Bedankt voor jullie belangstelling en tot heel gauw!\r</p><p>\r</p><p>This website is under construction. More information will follow shortly.\r</p><p>Thank you for your comprehension, we hope to welcome you back soon!\r</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
